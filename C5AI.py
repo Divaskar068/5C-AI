@@ -2,10 +2,10 @@ import random
 import math
 
 from constants import *
-from c4 import Connect4
+from C5 import Connect5
 
 
-class Connect4AI(Connect4):
+class Connect5AI(Connect5):
     def __init__(self, screen, player1, player2):
         super().__init__(screen, player1, player2)
 
