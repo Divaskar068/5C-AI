@@ -4,7 +4,7 @@ import pygame
 from constants import *
 
 
-class Connect4:
+class Connect5:
     def __init__(self, screen, player1, player2):
         self.screen = screen
         self.player1 = player1
