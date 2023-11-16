@@ -4,8 +4,8 @@ import math
 from random import randint
 
 from constants import *
-from c4 import Connect4
-from c4AI import Connect4AI
+from C5 import Connect5
+from C5AI import Connect5AI
 
 
 PLAYER1 = 1
